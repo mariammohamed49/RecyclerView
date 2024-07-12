@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">recyclerVieww</string>
+    <string name="bee">Bee</string>
+    <string name="elephant">Elephant</string>
+    <string name="ant">Ant</string>
+    <string name="camel">Camel</string>
+    <string name="crocodile">Crocodile</string>
+    <string name="bear">Bear</string>
+    <string name="duks">Duks</string>
+    <string name="goat">Goat</string>
+    <string name="kangaroo">Kangaroo</string>
+    <string name="octopus">octopus</string>
+    <string name="beeDescription">Bee makes honey</string>
+
+
+</resources>
